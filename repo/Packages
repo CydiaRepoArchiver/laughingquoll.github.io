@@ -5,9 +5,7 @@ Maintainer: LaughingQuoll <me@laughingquoll.net>
 Depends: mobilesubstrate, preferenceloader
 Provides: com.laughingquoll.forton
 Architecture: iphoneos-arm
-Filename: Files/com.laughingquoll.forton_0.0.1-2_iphoneos-armdeb
-Size: 6040
-Installed-Size: 40
+Filename: Files/com.laughingquoll.forton_0.0.1-2_iphoneos-arm.deb
 Description: Forton Tweak to remove Slide to Unlock
 Name: Forton
 Author: LaughingQuoll <me@laughingquoll.net>

@@ -1,15 +1,15 @@
 Package: com.laughingquoll.forton
-Version: 1
+Version: 2.1
 Section: Tweaks
 Maintainer: LaughingQuoll <me@laughingquoll.net>
 Depends: mobilesubstrate
 Provides: com.laughingquoll.forton
 Architecture: iphoneos-arm
-Filename: Files/forton/com.laughingquoll.forton_0.0.2-4_iphoneos-arm.deb
+Filename: Files/forton/com.laughingquoll.forton_2.1-1_iphoneos-arm.deb
 Description: Removes Slide to Unlock Text
 Name: Forton
-Size: 3532 
-MD5sum: a7a7f9eff5503b1cd57ea170f2795c70
+Size: 4140 
+MD5sum: 1ae355e4dc0f4234b5ff384ef3d9842a
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: http://laughingquoll.github.io/repo/Files/forton/index.html
 

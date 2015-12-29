@@ -8,5 +8,6 @@ Architecture: iphoneos-arm
 Filename: Files/forton/com.laughingquoll.forton_0.0.1-2_iphoneos-arm.deb
 Description: Forton Tweak to remove Slide to Unlock
 Name: Forton
+Size: 1880
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: http://laughingquoll.github.io/repo/Files/forton/index.html

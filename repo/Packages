@@ -5,7 +5,7 @@ Maintainer: LaughingQuoll <me@laughingquoll.net>
 Depends: mobilesubstrate
 Provides: com.laughingquoll.forton
 Architecture: iphoneos-arm
-Filename: Files/forton/com.laughingquoll.forton_0.0.2-2_iphoneos-arm.deb
+Filename: Files/forton/com.laughingquoll.forton_0.0.2-4_iphoneos-arm.deb
 Description: Removes Slide to Unlock Text
 Name: Forton
 Size: 3532 

@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = fortonprefs;
+	cell = PSLinkCell;
+	detail = fortonprefsListController;
+	icon = fortonprefs.png;
+	isController = 1;
+	label = Forton;
+    };
+}

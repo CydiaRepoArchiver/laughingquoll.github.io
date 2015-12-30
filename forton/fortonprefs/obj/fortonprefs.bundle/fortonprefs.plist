@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>cell</key>             <string>PSGroupCell</string>
+            <key>lable</key>             <string>Forton Settings</string>
+        </dict>
+        <dict>
+            <key>cell</key>             <string>PSSwitchCell</string>
+            <key>default</key>          <true/>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCisEnabled</string>
+            <key>label</key>            <string>Enabled</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+<dict>
+            <key>cell</key>
+            <string>PSGroupCell</string>
+            <key>label</key>
+            <string>Passcode View</string>
+        </dict>
+           <dict>
+            <key>cell</key>             <string>PSSwitchCell</string>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCEmergency</string>
+            <key>label</key>            <string>Hide Emergency Button</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+          <dict>
+            <key>cell</key>             <string>PSSwitchCell</string>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCPassword</string>
+            <key>label</key>            <string>Hide Enter Password</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+          <dict>
+            <key>cell</key>             <string>PSSwitchCell</string>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCCancel</string>
+            <key>label</key>            <string>Hide Cancel Button</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+        <dict>
+            <key>cell</key>             <string>PSEditTextCell</string>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCtext</string>
+            <key>label</key>            <string>Custom Slide Text:</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+        <dict>
+            <key>cell</key>             <string>PSSwitchCell</string>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCPasscodeLock</string>
+            <key>label</key>            <string>Extend Passcode Attept Lock</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+
+             <dict>
+            <key>cell</key>
+            <string>PSGroupCell</string>
+            <key>label</key>
+            <string>Visual Effect Settings</string>
+        </dict>
+        <dict>
+            <key>cell</key>             <string>PSSwitchCell</string>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCLockscreenTint</string>
+            <key>label</key>            <string>Remove Lockscreen Tint</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+        <dict>
+            <key>cell</key>             <string>PSSwitchCell</string>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCLockscreenBounce</string>
+            <key>label</key>            <string>Remove Lockscreen Bounce</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+        <dict>
+            <key>cell</key>             <string>PSSwitchCell</string>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCLockscreenBlur</string>
+            <key>label</key>            <string>Remove Lockscreen Blur</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+         <dict>
+            <key>cell</key>             <string>PSSwitchCell</string>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCLockscreenRotate</string>
+            <key>label</key>            <string>Allow Lockscreen Rotation</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+        <dict>
+            <key>cell</key>             <string>PSSwitchCell</string>
+            <key>defaults</key>         <string>com.laughingquoll.fortonprefs</string>
+            <key>key</key>              <string>SCFastAnims</string>
+            <key>label</key>            <string>Faster Animations</string>
+            <key>PostNotification</key> <string>com.laughingquoll.fortonprefs/settingschanged</string>
+        </dict>
+        <dict>
+            <key>cell</key>
+            <string>PSGroupCell</string>
+            <key>label</key>
+            <string>Respring Is Required To Activate Changes</string>
+        </dict>
+        <dict>
+            <key>cell</key>             <string>PSButtonCell</string>
+            <key>label</key>            <string>Save</string>
+            <key>action</key>           <string>save</string>
+        </dict>
+ <dict>
+            <key>cell</key>
+            <string>PSGroupCell</string>
+            <key>label</key>
+            <string>Forton By LaughingQuoll - @laughingquoll</string>
+        </dict>
+
+    </array>
+    <key>title</key>
+    <string>Forton</string>
+</dict>
+</plist>

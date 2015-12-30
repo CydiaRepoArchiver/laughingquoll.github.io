@@ -1,8 +1,8 @@
-Origin: LaughingQuoll's Repo
-Label: LaughingQuoll's Repo
+Origin: LaughingQuoll's repo
+Label: LaughingQuoll's repo
 Suite: stable
-Version: 2.3
-Codename: LaughingQuoll
+Version: 1.0
+Codename: LaughingQuollRepo
 Architectures: iphoneos-arm
 Components: main
 Description: LaughingQuoll's Cydia Repository

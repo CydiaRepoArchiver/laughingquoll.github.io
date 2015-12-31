@@ -1,9 +1,0 @@
-Package: com.laughingquoll.forton
-Name: Forton
-Depends: mobilesubstrate
-Version: 1.2
-Architecture: iphoneos-arm
-Description: Changes many aspects of the lockscreen.
-Maintainer: LaughingQuoll
-Author: LaughingQuoll
-Section: Tweaks

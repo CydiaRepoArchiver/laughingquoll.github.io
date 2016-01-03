@@ -4,9 +4,9 @@ Section: Tweaks
 Maintainer: LaughingQuoll <me@laughingquoll.net>
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: Files/forton/com.laughingquoll.forton_1.3.1-1_iphoneos-arm.deb
-Size: 19662
-MD5sum: 315002bb02fd508649665b5c1c00e110
+Filename: Files/forton/com.laughingquoll.forton_1.5-1_iphoneos-arm.deb
+Size: 41042
+MD5sum: 788e4935820a7615cfe4e8d681d556d9
 Description: Change many aspects of ones lockscreen, should now work with 64bit devices.
 Name: Forton
 Author: LaughingQuoll <me@laughingquoll.net>

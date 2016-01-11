@@ -52,4 +52,4 @@ Section: Tweaks
 Description: Removes the battery charging notification on the lockscreen.
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.ccoldbounce
-Name: LowLSSlider
+Name: NoChargedMSG

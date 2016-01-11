@@ -9,7 +9,7 @@ MD5sum: e4df808369a1133840c2f713929c8e8d
 Section: Tweaks
 Description: Modify your lockscreen.
 Author: LaughingQuoll <me@laughingquoll.net>
-Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.ccoldbounce
+Depiction: ./depictions/forton.html
 Name: Forton
 
 Package: com.laughingquoll.flatchevron
@@ -23,7 +23,7 @@ MD5sum: 3c4eec85ac7afce605ab0a3f244181e2
 Section: Tweaks
 Description: Flatten the control and notification center chevron.
 Author: LaughingQuoll <me@laughingquoll.net>
-Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.ccoldbounce
+Depiction: ./depictions/flatchevron.html
 Name: FlatChevron
 
 Package: com.laughingquoll.lowlsslider
@@ -37,7 +37,7 @@ MD5sum: f5dc653c49601b9b25455c3ee24d03de
 Section: Tweaks
 Description: Lowers the lockscreen volume slider a little.
 Author: LaughingQuoll <me@laughingquoll.net>
-Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.ccoldbounce
+Depiction: ./depictions/lowlsslider.html
 Name: LowLSSlider
 
 Package: com.laughingquoll.nochargedmsg
@@ -51,5 +51,5 @@ MD5sum: 399a781d42771a76fa3dc54c10836974
 Section: Tweaks
 Description: Removes the battery charging notification on the lockscreen.
 Author: LaughingQuoll <me@laughingquoll.net>
-Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.ccoldbounce
+Depiction: ./depictions/nochargedmsg.html
 Name: NoChargedMSG

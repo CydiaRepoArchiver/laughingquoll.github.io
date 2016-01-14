@@ -2,7 +2,7 @@ Package: com.laughingquoll.forton
 Version: 3-1
 Architecture: iphoneos-arm
 Maintainer: LaughingQuoll <me@laughingquoll.net>
-Depends: firmware (>=7.0), mobilesubstrate
+Depends: firmware (>=7.0), mobilesubstrate, preferenceloader
 Filename: ./debs//com.laughingquoll.forton_3-1_iphoneos-arm.deb
 Size: 47496
 MD5sum: e4df808369a1133840c2f713929c8e8d
@@ -16,7 +16,7 @@ Package: com.laughingquoll.flatchevron
 Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: LaughingQuoll <me@laughingquoll.net>
-Depends: firmware (>=9.0), mobilesubstrate
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.laughingquoll.flatchevron_0.0.1-1_iphoneos-arm.deb
 Size: 2972
 MD5sum: 3c4eec85ac7afce605ab0a3f244181e2
@@ -30,7 +30,7 @@ Package: com.laughingquoll.lowlsslider
 Version: 0.1-4
 Architecture: iphoneos-arm
 Maintainer: LaughingQuoll <me@laughingquoll.net>
-Depends: firmware (>=9.0), mobilesubstrate
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.laughingquoll.lowlsslider_0.1-4_iphoneos-arm.deb
 Size: 3086
 MD5sum: f5dc653c49601b9b25455c3ee24d03de
@@ -44,7 +44,7 @@ Package: com.laughingquoll.nochargedmsg
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: LaughingQuoll <me@laughingquoll.net>
-Depends: firmware (>=9.0), mobilesubstrate
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.laughingquoll.nochargedmsg_0.1_iphoneos-arm.deb
 Size: 3952
 MD5sum: 399a781d42771a76fa3dc54c10836974
@@ -58,7 +58,7 @@ Package: com.laughingquoll.cleannc
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: LaughingQuoll <me@laughingquoll.net>
-Depends: firmware (>=9.0), mobilesubstrate
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.laughingquoll.cleannc_0.1-1_iphoneos-arm.deb
 Size: 4912
 MD5sum: b6d8bb83a8648c94f5874c857298f759
@@ -67,3 +67,17 @@ Description: Very very basic notification center.
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: ./depictions/cleannc.html
 Name: CleanNC
+
+Package: com.laughingquoll.shakeitoff
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.laughingquoll.shakeitoff_0.1-1_iphoneos-arm.deb
+Size: 4912
+MD5sum: b6d8bb83a8648c94f5874c857298f759
+Section: Tweaks
+Description: Very very basic notification center.
+Author: LaughingQuoll <me@laughingquoll.net>
+Depiction: ./depictions/shakeitoff.html
+Name: ShakeItOff

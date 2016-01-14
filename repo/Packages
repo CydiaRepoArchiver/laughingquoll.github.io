@@ -53,3 +53,17 @@ Description: Removes the battery charging notification on the lockscreen.
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: ./depictions/nochargedmsg.html
 Name: NoChargedMSG
+
+Package: com.laughingquoll.cleannc
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Depends: firmware (>=9.0), mobilesubstrate
+Filename: ./debs/com.laughingquoll.cleannc_0.1-1_iphoneos-arm.deb
+Size: 4912
+MD5sum: b6d8bb83a8648c94f5874c857298f759
+Section: Tweaks
+Description: Very very basic notification center.
+Author: LaughingQuoll <me@laughingquoll.net>
+Depiction: ./depictions/cleannc.html
+Name: CleanNC
